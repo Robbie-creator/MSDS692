@@ -1,0 +1,18 @@
+{
+  "raw_rows": 353804,
+  "unique_rows": 353796,
+  "duplicates": 8,
+  "date_min": "1990-01-01 00:00:00",
+  "date_max": "2026-08-01 00:00:00",
+  "invalid_dates": 0,
+  "invalid_damage": 0,
+  "eda_included": 312726,
+  "eda_excluded": 41070,
+  "eligible_airports": 53,
+  "panel_rows": 7632,
+  "switch_to_forest": false,
+  "chosen_model": "logistic",
+  "source_sha256": "66e0cec5fa8426cdc4c4f03712c7549f1b10b91913ed2563e71bcd115b776d88",
+  "python": "3.11.0",
+  "sklearn": "1.8.0"
+}
